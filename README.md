@@ -3,7 +3,7 @@
 This repository contains Task 2 of CoreTech AI/ML Internship.
 
 ## Description
-Jupyter Notebook with 17 Pyton
+Jupyter Notebook with 17 Python
 examples covering:
 - Variables and Data Types
 - Loops: for, while
