@@ -1,6 +1,6 @@
-# Task 2: Pyton Basics for Machine Learning - CoreTech Internship
+# Task 2: Python Basics for Machine Learning - CoreTech Internship
 
-This repository contains Task 2 of CoreTch AI/ML Internship.
+This repository contains Task 2 of CoreTech AI/ML Internship.
 
 ## Description
 Jupyter Notebook with 17 Pyton
